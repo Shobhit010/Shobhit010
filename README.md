@@ -157,4 +157,4 @@ Hi 👋 I'm Shobhit Poddar
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=140&section=footer"  width="100%"/>
