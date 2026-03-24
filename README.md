@@ -26,7 +26,6 @@ Hi 👋 I'm Shobhit Poddar
 - 🌱 Learning **System Design, TypeScript & scalable architectures**
 - ⚡ Solved **500+ DSA problems**
 - 🏆 **H4B Finalist**
-- 💼 **Frontend Developer Intern @Trigrexam**
 - 🧠 Interested in **performance engineering & product design**
 - 🚀 Love turning **ideas into real products**
 
