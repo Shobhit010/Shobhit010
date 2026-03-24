@@ -5,7 +5,7 @@ Hi 👋 I'm Shobhit Poddar
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Engineer | Frontend Developer Intern @Trigrexam | H4B Finalist
+🚀 Full Stack Developer | MERN Stack Engineer | H4B Finalist
 </h3>
 
 <p align="center">
