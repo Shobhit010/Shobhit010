@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=160&section=header&text=Shobhit%20Poddar&fontSize=40&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=160&section=header&text=Shobhit&fontSize=40&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
-Hi 👋 I'm Shobhit Poddar
+Hi 👋 I'm Shobhit
 </h1>
 
 <h3 align="center">
