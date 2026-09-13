@@ -7,10 +7,10 @@
 I build production mobile and web products end to end, from Flutter apps and Next.js panels to serverless Firebase backends and payments.
 
 [![Email](https://img.shields.io/badge/Email-shobhit2004poddar%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:shobhit2004poddar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shobhit_Poddar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_solved-FFA116?style=flat-square&logo=leetcode&logoColor=111827)](https://leetcode.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2563EB)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shobhit_Poddar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit-poddar-065001215/)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shobhit010)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_solved-FFA116?style=flat-square&logo=leetcode&logoColor=111827)](https://leetcode.com/u/shobhit___007/)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2563EB)](https://github.com/Shobhit010)
 
 <br />
 
@@ -208,8 +208,9 @@ I care about premium interfaces, serverless architectures that stay cheap at sca
 I am open to **Flutter, full stack, and product engineering opportunities**, freelance work, and collaborations on things people actually use.
 
 - Email: [shobhit2004poddar@gmail.com](mailto:shobhit2004poddar@gmail.com)
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- Portfolio: [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)
+- LinkedIn: [shobhit](https://www.linkedin.com/in/shobhit-poddar-065001215/)
+- Portfolio: [shobhit](https://shobhit-portfolio-two.vercel.app/)
+- Resume: [Resume](https://drive.google.com/file/d/1WMv_vTWy3xeu9cHkQKyO3unpzv_7QaqB/view?usp=sharing)
 
 <div align="center">
 
