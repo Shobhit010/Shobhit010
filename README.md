@@ -207,10 +207,14 @@ I care about premium interfaces, serverless architectures that stay cheap at sca
 
 I am open to **Flutter, full stack, and product engineering opportunities**, freelance work, and collaborations on things people actually use.
 
-- Email: [shobhit2004poddar@gmail.com](mailto:shobhit2004poddar@gmail.com)
-- LinkedIn: [shobhit](https://www.linkedin.com/in/shobhit-poddar-065001215/)
-- Portfolio: [shobhit](https://shobhit-portfolio-two.vercel.app/)
-- Resume: [Resume](https://drive.google.com/file/d/1WMv_vTWy3xeu9cHkQKyO3unpzv_7QaqB/view?usp=sharing)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-shobhit2004poddar%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhit2004poddar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit-poddar-065001215/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://shobhit-portfolio-two.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1WMv_vTWy3xeu9cHkQKyO3unpzv_7QaqB/view?usp=sharing)
+
+</div>
 
 <div align="center">
 
