@@ -10,7 +10,7 @@ I build production mobile and web products end to end, from Flutter apps and Nex
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shobhit_Poddar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit-poddar-065001215/)
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shobhit010)
 [![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_solved-FFA116?style=flat-square&logo=leetcode&logoColor=111827)](https://leetcode.com/u/shobhit___007/)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2563EB)](https://github.com/Shobhit010)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shobhit010&style=flat-square&color=2563EB)](https://github.com/Shobhit010)
 
 <br />
 
