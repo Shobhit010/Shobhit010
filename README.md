@@ -209,10 +209,13 @@ I am open to **Flutter, full stack, and product engineering opportunities**, fre
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-shobhit2004poddar%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhit2004poddar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit-poddar-065001215/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://shobhit-portfolio-two.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1WMv_vTWy3xeu9cHkQKyO3unpzv_7QaqB/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhit2004poddar@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit-poddar-065001215/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shobhit-portfolio-two.vercel.app/)
+&nbsp;&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1WMv_vTWy3xeu9cHkQKyO3unpzv_7QaqB/view?usp=sharing)
 
 </div>
 
