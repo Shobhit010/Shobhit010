@@ -166,9 +166,9 @@ I care about premium interfaces, serverless architectures that stay cheap at sca
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shobhit010/Shobhit010/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shobhit010/Shobhit010/output/github-snake.svg" />
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shobhit010/Shobhit010/output/github-snake.svg" />
 </picture>
 
 </div>
