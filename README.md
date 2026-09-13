@@ -62,7 +62,7 @@ I care about premium interfaces, serverless architectures that stay cheap at sca
 </td>
 <td width="50%" valign="top">
 <h3>Prime Mentor</h3>
-<p><strong>EdTech SaaS Platform</strong> · <code>150+ Users</code></p>
+<p><strong>EdTech SaaS Platform</strong> · <code>2000+ Users</code></p>
 <p>A production EdTech platform with separate Admin, Teacher, and Student experiences.</p>
 <ul>
 <li>Three role-based panels sharing one MERN backend</li>
