@@ -196,13 +196,6 @@ I care about premium interfaces, serverless architectures that stay cheap at sca
 
 ---
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## Let's Connect
 
 I am open to **Flutter, full stack, and product engineering opportunities**, freelance work, and collaborations on things people actually use.
