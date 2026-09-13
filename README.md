@@ -6,11 +6,15 @@
 
 I build production mobile and web products end to end, from Flutter apps and Next.js panels to serverless Firebase backends and payments.
 
-[![Email](https://img.shields.io/badge/Email-shobhit2004poddar%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:shobhit2004poddar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shobhit_Poddar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit-poddar-065001215/)
-[![GitHub](https://img.shields.io/badge/GitHub-Shobhit010-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shobhit010)
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_solved-FFA116?style=flat-square&logo=leetcode&logoColor=111827)](https://leetcode.com/u/shobhit___007/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shobhit010&style=flat-square&color=2563EB)](https://github.com/Shobhit010)
+<br />
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhit2004poddar@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit-poddar-065001215/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://shobhit-portfolio-two.vercel.app/)
+&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827)](https://leetcode.com/u/shobhit___007/)
 
 <br />
 
