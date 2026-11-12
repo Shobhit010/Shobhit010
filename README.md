@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="./assets/github-banner.png" alt="Shobhit Poddar - Full Stack Developer, Flutter and Firebase" />
-
 <br />
 
 I build production mobile and web products end to end, from Flutter apps and Next.js panels to serverless Firebase backends and payments.
